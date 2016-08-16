@@ -1,0 +1,13 @@
+Function,Starting X Value,Ending X Value
+f1,-4,4
+f2,-4,4
+f3,-3.5,1.5
+f4,-5,3 
+f5,-5,3.5
+f6,0,4pi
+f7,-10,10
+f8,-5,3
+f9,0,4pi
+f10,-15,15
+f11,0,12.5
+f12,0,5
